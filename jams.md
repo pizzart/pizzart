@@ -1,5 +1,20 @@
 # Game Jam Submissions
 
+## GitHub Game Off 2023 - [Metamorphosis](https://itch.io/jam/game-off-2023/rate/2383295)
+
+- Theme: Scale
+- Date: November 2023
+
+### Ratings
+| Criteria             | Rank | Score |
+| -------------------- | ---- | ----- |
+| Gameplay             | #158 | 3.111 |
+| Audio                | #229 | 2.828 |
+| Graphics             | #275 | 2.828 |
+| Overall              | #290 | 2.687 |
+| Innovation           | #414 | 1.383 |
+| Theme interpretation | #507 | 1.273 |
+
 ## Scream Jam 2023 - [Skyward](https://itch.io/jam/scream-jam-2023/rate/2330351)
 
 - Date: October 2023
