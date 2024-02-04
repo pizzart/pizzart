@@ -6,14 +6,14 @@
 - Date: November 2023
 
 ### Ratings
-| Criteria             | Rank | Score |
-| -------------------- | ---- | ----- |
-| Gameplay             | #158 | 3.111 |
-| Audio                | #229 | 2.828 |
-| Graphics             | #275 | 2.828 |
-| Overall              | #290 | 2.687 |
-| Innovation           | #414 | 1.383 |
-| Theme interpretation | #507 | 1.273 |
+| Criteria             | Rank | Score | Raw Score |
+| -------------------- | ---- | ----- | --------- |
+| Gameplay             | #158 | 3.111 | 4.400     |
+| Audio                | #229 | 2.828 | 4.000     |
+| Graphics             | #275 | 2.828 | 4.000     |
+| Overall              | #290 | 2.687 | 3.800     |
+| Innovation           | #414 | 1.383 | 2.600     |
+| Theme interpretation | #507 | 1.273 | 1.800     |
 
 ## Scream Jam 2023 - [Skyward](https://itch.io/jam/scream-jam-2023/rate/2330351)
 
